@@ -1,0 +1,15 @@
+name: ArenaBomberman
+main: mc.alk.bomberman.Bomberman
+version: 0.0.1
+depend: [BattleArena]
+authors: [skizolit]
+
+commands:
+    bomberman:
+        aliases: [bm]
+        description: /bomberman
+        usage: /bomberman
+    epaintball:
+        aliases: [ebm]
+        description: /ebomberman
+        usage: /ebomberman
